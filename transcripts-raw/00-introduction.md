@@ -1,4 +1,4 @@
-# Introduction - 2025 model Series
+# Introduction - 2025 Model Series Lecture 00
 
 Hello there, I hope that you are doing well. Welcome to the first lecture of the 2025 model series here on the Time and Price mentorship.
 
