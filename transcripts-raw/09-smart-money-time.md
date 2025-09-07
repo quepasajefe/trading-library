@@ -1,4 +1,4 @@
-# Smart Money Time (SMT) - 2025 Models Series Lecture
+# Smart Money Time (SMT) - 2025 Model Series Lecture 09
 
 Hello there, I hope that you are doing well. Welcome to this new lecture of the 2025 Models series. This lecture is going to be on SMT—Smart Money Time.
 
