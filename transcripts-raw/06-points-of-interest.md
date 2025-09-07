@@ -1,4 +1,4 @@
-# Points of Interest - 2025 Models Series Lecture
+# Points of Interest - 2025 Model Series Lecture 06
 
 Hello there, I hope you are doing well. Welcome to this new lecture of the Models series. During this lecture, I will be discussing points of interest with you.
 
