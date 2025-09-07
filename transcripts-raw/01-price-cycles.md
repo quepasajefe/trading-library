@@ -1,4 +1,4 @@
-# Price Cycles - 2025 model Series Lecture
+# Price Cycles - 2025 Model Series Lecture 01
 
 Hello there, I hope that you are doing well. Welcome to the first real lecture of the 2025 model series here on the Time and Price mentorship. This lecture is going to be about one of the most looked-after concepts within my mentorship, and it's called price cycles. During this lecture, I will share with you what a price cycle is, and I will explain to you how we can utilize this logic within the markets. Buckle up because this lecture is going to be game-changing when it comes to your perspective on the markets in general.
 
