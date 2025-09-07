@@ -1,4 +1,4 @@
-# Questions Answered - 2025 Models Series Lecture
+# Questions Answered - 2025 Model Series Lecture 16
 
 Hello there, I hope you are doing well. Welcome to this new lecture of the 2025 Models series. During this lecture I'm going to be discussing the most frequently asked questions which came as a result of students having gone through the Models series up until this point. These questions were asked either through a support page or they were asked in my DMs.
 
