@@ -1,4 +1,4 @@
-# Trade Management - 2025 Models Series Lecture
+# Trade Management - 2025 Model Series Lecture 12
 
 Hello there, I hope you're doing well. Welcome to this new lecture of the 2025 Models series. During this lecture I will be discussing trade management. So far throughout this series I've outlined to you how to anticipate when and where a trade setup is going to present itself, how to frame the trade idea and how to actually enter into the position. However, during this lecture what I will be discussing is how you can manage your position as it is ongoing.
 
