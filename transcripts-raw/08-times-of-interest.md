@@ -1,4 +1,4 @@
-# Times of Interest - 2025 Models Series Lecture
+# Times of Interest - 2025 Model Series Lecture 08
 
 Hello there, I hope you're doing well. Welcome to this new lecture of the 2025 Models series. This lecture is going to be on times of interest.
 
