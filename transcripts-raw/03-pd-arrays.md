@@ -1,4 +1,4 @@
-# PD Arrays - 2025 Models Series Lecture
+# PD Arrays - 2025 Model Series Lecture 03
 
 Hello there, I hope that you are doing well. Welcome to this new lecture of the 2025 Models series. This lecture is going to be on PD arrays.
 
