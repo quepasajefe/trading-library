@@ -1,4 +1,4 @@
-# Time Cycles - 2025 Models Series Lecture
+# Time Cycles - 2025 Model Series Lecture 02
 
 Hello there, I hope that you are doing well. Welcome to this new lecture of the 2025 Models series. This lecture is going to be on time cycles. Buckle up.
 
