@@ -1,4 +1,4 @@
-# Entry Patterns - 2025 Models Series Lecture
+# Entry Patterns - 2025 Model Series Lecture 11
 
 Hello there, I hope that you are doing well. Welcome to this new lecture of the 2025 Models series. During this lecture I will be discussing a requested topic, and that is entry patterns. Entry patterns are methods of getting into the marketplace. It's important to understand that entry patterns by themselves mean absolutely nothing, and that is something which I'm going to put emphasis on during this lecture. With that being said, let us dive into today's lecture.
 
