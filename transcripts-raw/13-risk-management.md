@@ -1,4 +1,4 @@
-# Risk Management - 2025 Models Series Lecture
+# Risk Management - 2025 Model Series Lecture 13
 
 Hello there, I hope that you are doing well. Welcome to this new lecture of the 2025 Models series. During this lecture, I will be discussing risk management with you.
 
