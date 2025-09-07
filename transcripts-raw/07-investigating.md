@@ -1,4 +1,4 @@
-# Investigating - 2025 Models Series Lecture
+# Investigating - 2025 Model Series Lecture 07
 
 Hope that you are doing well. Welcome to this new lecture of the 2025 Models series. This lecture is in a bit of a different format than what you're used to within this series, and the reason why is because I want to create a raw lecture for you in which I share with you how to actually investigate what I've taught so far.
 
